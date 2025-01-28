@@ -596,6 +596,7 @@ input::placeholder {
 }
 .footer-form-icon {
     fill: #E7E9FC;
+    margin-left: 16px;
 }
 /* --------------------overlay-form----------------- */
 .modav-overlay {
